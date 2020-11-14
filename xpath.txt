@@ -1,4 +1,0 @@
-links = //h2[@class="story-item__content-title overflow-hidden"]/a/@href
-title = //h1[@class="sht__title"]/text()
-summary = //h2[@class="sht__summary"]/text()
-body = //div[@class="story-contents__content  false"]/section//*/text()
